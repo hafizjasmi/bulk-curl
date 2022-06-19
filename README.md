@@ -12,7 +12,7 @@ pip install -r requirements.txt
 # Running the Py Script
 To use it, invoke the python script with your python interpretter, such as below :
 
-python3 report.py
+python3 Curl.py
 
 
 # Input are needed when you run the Script
